@@ -32,7 +32,7 @@ Para unirse al grupo oficial de **Los Curipanas**, haz click en el siguiente lin
 
 ## Plugins
 
-Lista de plugins actuales:
+Lista de plugins añadidos:
 
 - [Mochilas](#mochilas)
 - [GeyserMc](#geysermc)
