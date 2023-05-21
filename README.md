@@ -1,10 +1,4 @@
-<div align=center>
-
-<img style="border-radius: 50%" width=200 src="imagenes/curipanas-logo.png">
-
 <h1>Los Curipanas: Servidor Oficial de Minecraft</h1>
-
-</div>
 
 <div>
 <img src="https://img.shields.io/badge/1.19.4%20-%2343853D.svg?&style=for-the-badge&color=006606&label=Version" />
