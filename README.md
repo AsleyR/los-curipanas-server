@@ -15,6 +15,7 @@
   - [Mochilas](#mochilas)
     - [Guía del Usuario](#guía-del-usuario)
   - [GeyserMC](#geysermc)
+- [Contribuir](#contribuir)
 - [Licencia](#licencia)
 
 ## Sobre el servidor
@@ -67,6 +68,10 @@ Para leer más sobre como utilizar las mochilas en el juego, haga click [aquí](
 Link del plugin: [https://geysermc.org/](https://geysermc.org/)
 
 Plugin para habilitar compatibilidad entre jugadores de Bedrock con los de Java. Sin este, el servidor no sería compatible con las dos versiones.
+
+## Contribuir
+
+Todas las contribuciones están abiertas. Haz click [aquí](CONTRIBUCIONES.md) para saber más sobre como contribuir al repo.
 
 ## Licencia
 
