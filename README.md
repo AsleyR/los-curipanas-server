@@ -9,6 +9,7 @@
 <h2>Tabla de Contenido</h2>
 
 - [Sobre el servidor](#sobre-el-servidor)
+  - [Conectarse al servidor](#conectarse-al-servidor)
   - [Grupo WhatsApp](#grupo-whatsapp)
 - [Plugins](#plugins)
   - [Mochilas](#mochilas)
@@ -18,11 +19,21 @@
 
 ## Sobre el servidor
 
-Servidor de Minecraft hosteado en [Aternos](https://aternos.org). Compatible con versiones **Java** y **Bedrock**. 
+Servidor de Minecraft está hosteado en [Aternos](https://aternos.org). Compatible con versiones **Java** y **Bedrock**. 
 
 Version **1.19.4**
 
 Usuarios con Minecraft crackeado tambien pueden unirse.
+
+### Conectarse al servidor
+
+Ip:
+
+    LosCuripanas.aternos.me
+
+Puerto:
+
+    41923
 
 ### Grupo WhatsApp
 
